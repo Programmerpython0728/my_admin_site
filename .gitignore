@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+SECRET_KEY = 'django-insecure-^46gt^pg9@e*iz=_6)+zf62kipn6%b&u9c-lvosj+@wy$yb72('
 __pycache__/
 *.py[cod]
 *$py.class
